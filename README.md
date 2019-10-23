@@ -1,7 +1,5 @@
 
-## loveCounts - Expense Tracker and Budget Planner for Couples
-
-An app that helps couples set and meet their financial goals.
+## loveCounts
 
 ### Built With:
 - jQuery
